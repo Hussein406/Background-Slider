@@ -61,7 +61,6 @@ body::before {
   top: 50%;
   transform: translateY(-50%);
   cursor: pointer;
-  color: #fff;
 }
 .left-arrow {
     left: calc(15vw - 58px)
